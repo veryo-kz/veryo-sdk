@@ -155,3 +155,7 @@ pnpm -r build
 pnpm -r test
 pnpm changeset   # описать изменение для следующего релиза
 ```
+
+## Лицензия
+
+[MIT](LICENSE)

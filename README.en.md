@@ -155,3 +155,7 @@ pnpm -r build
 pnpm -r test
 pnpm changeset   # describe a change for the next release
 ```
+
+## License
+
+[MIT](LICENSE)
