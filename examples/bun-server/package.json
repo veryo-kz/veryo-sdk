@@ -1,0 +1,8 @@
+{
+  "name": "bun-server-example",
+  "private": true,
+  "type": "module",
+  "scripts": { "start": "bun run server.ts" },
+  "dependencies": { "@veryo/node": "workspace:*" },
+  "devDependencies": { "@types/bun": "^1.4.4" }
+}
